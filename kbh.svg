@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_1" data-name="Lag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 580.5 501.8">
+<image id="kort"
+       href="billeder/kbh.png"
+       x="0" y="0"
+       width="580.5" height="501.8"
+       preserveAspectRatio="none" />  <circle id="Fabro" cx="426.4" cy="249.4" r="6.9" fill="#ff4700" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <circle id="Broens" data-name="dot" cx="447.1" cy="285.2" r="6.9" fill="#ff4700" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <path id="streg" d="M425.6,253.5c-5.2,13.5-9.7,16.4-12.9,16.5-1.2,0-1-.4-9.7-4.7-5.9-2.9-7.6-3.5-12.6-6-.5-.3-1.6-.8-3.2-1.5-2.3-1-4.1-1.7-5.6-2.2-5.3-1.9-7.9-2.8-8.6-3.2-2.5-1.1-4.1-2.1-7.3-4.1-4.6-2.9-6.8-4.3-8.4-5.8-4.6-4.4-5-8-9.9-13.9-1.5-1.8-3.1-3.4-3.1-3.4-1.7-1.7-2.8-2.6-3.8-3.5-3.4-3-3.1-3.8-6.7-7.5-3.7-3.8-4-3-6.6-6-1.7-2-2.1-3-4.7-6-1.7-2-2.6-3-3.7-3.7-2.4-1.5-3.9-1.1-7.1-2.1-1.8-.5-3.8-1.6-7.5-3.8-6.2-3.6-8.9-5.7-9-5.6-.5.7,113.1,81,128.2,88.3.4.2,4.1,2,9.2,4.5,4.2,2.1,7.7,3.9,10.5,5.4" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <circle id="EK" data-name="dot" cx="351" cy="230.6" r="6.9" fill="#ff4700" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <circle id="Frederiksborggade" data-name="dot" cx="386.7" cy="251.8" r="6.9" fill="#ff4700" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <circle id="Brønshøj" data-name="dot" cx="291.8" cy="184.1" r="6.9" fill="#ff4700" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <g id="cykel">
+    <image id="cykelstykker" width="1890" height="1417" transform="translate(283.1 233.2) rotate(3) scale(0)" xlink:href="Ikke-navngivet-1.png"/>
+  </g>
+</svg>

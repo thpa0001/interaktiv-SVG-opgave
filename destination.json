@@ -1,0 +1,27 @@
+[
+  {
+    "lokation": "Brønshøj",
+    "tekst": "Jeg er født og opvokset i Brønshøj. Det er min hjemby og jeg holder stedet meget kært.",
+    "billede": "Bronshoj.jpg"
+  },
+  {
+    "lokation": "EK",
+    "tekst": "Her studerer jeg:)",
+    "billede": "ek.jpg"
+  },
+  {
+    "lokation": "Frederiksborggade",
+    "tekst": "Det her er mit nuværende hjem. Jeg bor i en lejlighed på Frederiksborggade i København K.",
+    "billede": "frederiksborggade.jpg"
+  },
+  {
+    "lokation": "Fabro",
+    "tekst": "Jeg laver pasta her hos Fabro i Nyboder. Det er et fantastisk sted med lækker mad og gode kollegaer.",
+    "billede": "fabro.jpg"
+  },
+  {
+    "lokation": "Broens",
+    "tekst": "Jeg arbejder på Broens Gadekøkken om sommeren. Det er et hyggeligt sted ved havnen med lækre drinks",
+    "billede": "broens.jpg"
+  }
+]
